@@ -1,2 +1,7 @@
 It is so fun!!
-Git commit 
+Git Status
+Git log
+Git add
+Git commit
+Git push
+
